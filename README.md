@@ -1,8 +1,7 @@
-### Oie
+### 
+🌱 ADS - Fatec RP 4/6
 
-🌱 ADS - Fatec RP 2/6
-
-💬 22yo
+💬 23yo
 
 <!--
 **Willemm525/Willemm525** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
